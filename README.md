@@ -21,3 +21,25 @@ PHP • MySQL • REST APIs
 
 **Tools & Platforms:**  
 Git • GitHub • Google Cloud
+
+## 🚀 Featured Projects
+
+### 🏠 Constructa
+A web-based platform designed to help homeowners plan, visualize, and manage their house construction journey.
+
+**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+
+### 🌌 NASA Space App
+A Python-based project developed as part of the NASA Space Apps Challenge.
+
+**Tech:** Python
+
+### ❄️ Minerva Air Conditioning
+A responsive frontend website developed as a freelance project for a real-world client.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🛋️ 3D Sofa Configurator
+An interactive 3D product customization experience focused on real-time sofa visualization and customization.
+
+**Tech:** Three.js • JavaScript • HTML • CSS
