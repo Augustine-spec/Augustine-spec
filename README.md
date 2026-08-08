@@ -24,7 +24,7 @@ Git • GitHub • Google Cloud
 
 ## 🚀 Featured Projects
 
-### 🏠 [Constructa](./Constructa)
+### 🏠 ### 🏠 [Constructa](https://github.com/Augustine-spec/Constructa)
 
 A web-based platform designed to help homeowners plan, visualize, and manage their house construction journey.
 
