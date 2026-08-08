@@ -24,19 +24,19 @@ Git • GitHub • Google Cloud
 
 ## 🚀 Featured Projects
 
-### 🏠 ### 🏠 [Constructa](https://github.com/Augustine-spec/Constructa)
+### 🏠 [Constructa](https://github.com/Augustine-spec/Constructa)
 
 A web-based platform designed to help homeowners plan, visualize, and manage their house construction journey.
 
 **Tech:** PHP • MySQL • HTML • CSS • JavaScript
 
-### 🌌 ### 🌌 [NASA Space App](https://github.com/Augustine-spec/nasa-space-app)
+### 🌌 [NASA Space App](https://github.com/Augustine-spec/nasa-space-app)
 
 A Python-based project developed as part of the NASA Space Apps Challenge.
 
 **Tech:** Python
 
-### ❄️ ### ❄️ [Minerva Air Conditioning](https://github.com/Augustine-spec/Air-conditioning-front-end-for-company-renderberry)
+### ❄️ [Minerva Air Conditioning](https://github.com/Augustine-spec/Air-conditioning-front-end-for-company-renderberry)
 
 A responsive frontend website developed as a freelance project for a real-world client.
 
