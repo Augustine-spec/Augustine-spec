@@ -47,3 +47,26 @@ A responsive frontend website developed as a freelance project for a real-world 
 An interactive 3D product customization experience focused on real-time sofa visualization and customization.
 
 **Tech:** Three.js • JavaScript • HTML • CSS
+
+## 💼 Experience
+
+### Frontend Development Intern — Zoople Technologies
+*2 Weeks*
+
+Worked with **React.js** to build and improve frontend interfaces, gaining practical experience in component-based development and modern web development.
+
+### Cybersecurity Intern — RISS Technologies
+*1 Month*
+
+Gained practical exposure to **cybersecurity concepts, security practices, and related tools** through hands-on internship experience.
+## 🔭 Currently Working On
+
+- 🏠 Redesigning **Constructa** into a more intelligent and user-focused construction planning platform.
+- 🛋️ Building a **Three.js-based 3D sofa configurator** for real-time product customization.
+- 🎨 Exploring modern **React, UI/UX, and interactive 3D web experiences**.
+
+  ## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/augustine-joyal-jose)
+- 🌐 [GitHub](https://github.com/Augustine-spec)
+- 📧 Email: augustinejoyaljose@gmail.com
