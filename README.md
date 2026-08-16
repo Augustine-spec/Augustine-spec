@@ -1,67 +1,80 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-# 🚀 Always Learning. Building. Improving.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=220&section=header&text=Augustine%20Joyal%20Jose&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Integrated%20MCA%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="./assets/augustine.png" width="190" height="190" style="border-radius: 50%;" alt="Augustine Joyal Jose"/>
+### Full-Stack Developer | Interactive Web Experiences
 
-<br/>
+**React.js • Python • JavaScript • PHP • MySQL • Three.js**
 
-<a href="https://github.com/Augustine-spec">
-<img src="https://img.shields.io/badge/⭐_FOLLOW-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://komarev.com/ghpvc/?username=Augustine-spec">
-<img src="https://komarev.com/ghpvc/?username=Augustine-spec&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/>
-</a>
-<a href="https://www.linkedin.com/in/augustine-joyal-jose/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:[augustinejoyaljose@gmail.com](mailto:augustinejoyaljose@gmail.com)">
-<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/augustine-joyal-jose/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:augustinejoyaljose@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Augustine-spec">
+    <img src="https://img.shields.io/badge/GitHub-Augustine--spec-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Augustine Joyal Jose
-role: Integrated MCA Student | Software Developer
-institution: Amal Jyothi College of Engineering
-location: Kerala, India
-focus: Full-Stack Development & Software Engineering
+```text
+Hi, I'm Augustine Joyal Jose 👋
+
+I'm an Integrated MCA student and aspiring Software Developer focused on
+building practical web applications, responsive interfaces, and interactive
+digital experiences.
+
+I enjoy working across the full development process — from designing user
+interfaces and developing frontend applications to working with databases
+and backend technologies.
+
+Currently exploring modern web development, React.js, Python, Three.js,
+UI/UX, and full-stack application development.
 ```
 
-* 🎓 Pursuing **Integrated MCA** with a strong foundation in programming, databases, and software development.
-* 💻 Building **practical full-stack web applications** and responsive user interfaces.
-* 🌐 Exploring **React.js, JavaScript, Python, PHP, MySQL, and Three.js**.
-* 🎨 Interested in **UI/UX, interactive interfaces, and 3D web experiences**.
-* 🏗️ Developing **Constructa**, a platform focused on simplifying residential construction planning.
-* 🛋️ Exploring **3D product customization** and interactive experiences using Three.js.
-* 🔐 Gained practical exposure to **frontend development and cybersecurity** through internships.
-* 🚀 Currently preparing for opportunities in **Software Development and Full-Stack Development**.
+* 🎓 Pursuing **Integrated MCA** at Amal Jyothi College of Engineering
+* 💻 Interested in **Full-Stack & Software Development**
+* 🌐 Building **responsive and interactive web applications**
+* 🎨 Interested in **UI/UX and interactive 3D experiences**
+* 🏗️ Currently developing and improving **Constructa**
+* 🛋️ Exploring **3D product customization using Three.js**
+* ☁️ Exploring **Cloud Computing and modern development tools**
+* 🚀 Preparing for opportunities in **Software & Full-Stack Development**
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-| Institution                            | Program                                          | Status        |
-| -------------------------------------- | ------------------------------------------------ | ------------- |
-| **Amal Jyothi College of Engineering** | Integrated Master of Computer Applications (MCA) | Expected 2028 |
+### Amal Jyothi College of Engineering
+
+**Integrated Master of Computer Applications (MCA)**
+Expected Graduation: **2028**
+
+Currently building foundations and practical experience in:
+
+`Programming` `Web Development` `Databases` `Software Development` `Cloud Computing`
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 ### ⚛️ React.js Intern — Zoople Technologies
 
 **2025**
 
-* Worked on React.js-based frontend components and responsive interfaces.
-* Practiced component-based development and reusable UI structures.
-* Improved UI consistency and maintainability.
-* Gained practical experience in modern frontend development.
+* Worked with React.js-based frontend components.
+* Practiced building responsive and maintainable user interfaces.
+* Improved understanding of component-based development and reusable UI.
+* Worked on frontend development practices and UI consistency.
 
 ### 🔐 Cybersecurity Intern — RISS Technologies
 
@@ -70,133 +83,135 @@ focus: Full-Stack Development & Software Engineering
 * Explored practical cybersecurity concepts and security fundamentals.
 * Worked with simulated security scenarios and vulnerability analysis.
 * Developed foundational knowledge of network and application security.
-* Gained practical exposure to security-focused problem solving.
+* Gained exposure to cybersecurity practices through practical exercises.
 
 ---
 
-# 📜 Certifications & Learning
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ Constructa — Construction Project Management Platform
+
+A full-stack platform designed to simplify residential construction planning through house requirements, budgeting, material selection, professional discovery, and interactive visualization.
+
+**Key Areas:**
+
+* 🏠 House planning and requirement collection
+* 📐 2D layout visualization
+* 💰 Construction cost and budget estimation
+* 🧱 Material selection and recommendations
+* 👷 Engineer and professional discovery
+* 🛒 Construction material marketplace
+* 📊 Project planning and management
+* 🎨 Interactive visualization
+
+**Technologies:**
+
+`PHP` `MySQL` `JavaScript` `Three.js` `HTML` `CSS`
+
+---
+
+### 🏠 Personalized Home Design Portal
+
+A web application that helps homeowners explore house designs, visualize layouts, estimate construction costs, and connect with engineering professionals.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+---
+
+### 🚀 NASA Space Apps Challenge
+
+A Python-based project developed as part of the **NASA Space Apps Challenge**, focusing on solving a real-world problem through data, technology, and creative problem-solving.
+
+**Technologies:**
+
+`Python`
+
+---
+
+### 🤖 Minerva
+
+A responsive frontend project developed for a real-world client, focusing on clean UI design, responsive layouts, and an engaging user experience.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🔭 Currently Working On
+
+* 🏗️ **Constructa** — Improving it into a more intelligent and user-focused construction planning platform.
+* 🛋️ **3D Sofa Configurator** — Building interactive product customization using Three.js.
+* 🎨 **Modern UI/UX** — Exploring better interfaces, animations, and responsive experiences.
+* 🌐 **Full-Stack Development** — Strengthening frontend, backend, database, and API development skills.
+
+---
+
+## 📜 Certifications & Learning
 
 * ☁️ **Google Cloud Skills Boost**
 * 🗄️ **Oracle Academy — Database Foundations**
 * ☁️ **Oracle Academy — Cloud Deployment**
 * 🤖 **Oracle Academy — AI & Data**
-* 🔐 **Cybersecurity Fundamentals**
 * 📱 **Android App Development**
+* 🔐 **Cybersecurity Fundamentals**
 * 🐍 **Python Programming**
 * 🗃️ **SQL & Database Development**
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,mysql" />
-</p>
-
-### 🌐 Web Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,threejs" />
-</p>
-
-**Also familiar with:** AJAX • REST APIs • Responsive Design
-
-### 📱 Mobile Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏗️ Constructa
-
-**Construction Project Management Platform**
-
-A full-stack platform designed to simplify residential construction planning through requirements gathering, budgeting, material selection, professional discovery, and interactive visualization.
-
-**Tech Stack**
-
-`PHP` `MySQL` `JavaScript` `Three.js`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏠 Personalized Home Design Portal
-
-**Home Planning & Design Platform**
-
-A web application that helps homeowners explore house designs, visualize layouts, estimate construction costs, and connect with engineering professionals.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 NASA Space Apps Challenge
-
-**Real-World Problem Solving**
-
-A Python-based project developed as part of the NASA Space Apps Challenge, focusing on applying technology and creative problem-solving to a real-world challenge.
-
-**Tech Stack**
-
-`Python`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Minerva
-
-**Responsive Frontend Project**
-
-A frontend project developed for a real-world client, focusing on responsive layouts, clean UI design, and an engaging user experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔭 Currently Working On
-
-* 🏗️ **Constructa** — Improving construction planning, budgeting, and visualization features.
-* 🛋️ **3D Sofa Configurator** — Exploring real-time product customization using Three.js.
-* 🎨 **Interactive UI/UX** — Creating modern interfaces with animations and interactive experiences.
-* 🌐 **Full-Stack Development** — Strengthening frontend, backend, database, and API development.
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -206,7 +221,7 @@ A frontend project developed for a real-world client, focusing on responsive lay
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -216,7 +231,7 @@ A frontend project developed for a real-world client, focusing on responsive lay
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -226,45 +241,45 @@ A frontend project developed for a real-world client, focusing on responsive lay
 
 ---
 
-# 🎯 Career Objective
+## 🎯 Career Objective
 
-> Aspiring **Software Developer and Full-Stack Engineer** focused on building practical, scalable, and user-centered software solutions.
+I aim to grow as a **Software Developer and Full-Stack Engineer**, building scalable web applications and user-focused digital experiences while continuously strengthening my skills in modern web technologies, databases, software engineering, and cloud computing.
 
-I aim to continuously strengthen my skills in **full-stack development, databases, modern web technologies, UI/UX, and cloud computing** while working on real-world problems and meaningful software products.
-
----
-
-# 💡 What I Enjoy Building
-
-<div align="center">
-
-| 🌐 Web Applications      | 🎨 Interactive UI/UX       |
-| ------------------------ | -------------------------- |
-| 🏗️ Real-World Platforms | 🛋️ 3D Product Experiences |
-| 📊 Database Applications | 📱 Mobile Applications     |
-| ☁️ Cloud-Based Solutions | 🚀 Practical Software      |
-
-</div>
+I enjoy turning ideas into practical software solutions and continuously learning technologies that help me build better products.
 
 ---
 
-# 🤝 Let's Connect
+## 💡 What I Enjoy Building
+
+```text
+🌐 Web Applications
+🎨 Interactive User Interfaces
+🏗️ Real-World Management Platforms
+🛋️ 3D Product Customization
+📊 Database-Driven Applications
+📱 Mobile Applications
+☁️ Cloud-Based Solutions
+```
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
+<p>
 <a href="https://www.linkedin.com/in/augustine-joyal-jose/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Augustine-spec">
-<img src="https://img.shields.io/badge/GitHub-Augustine--spec-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:[augustinejoyaljose@gmail.com](mailto:augustinejoyaljose@gmail.com)">
+<a href="mailto:augustinejoyaljose@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/Augustine-spec">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ### ✨ Turning ideas into practical software solutions through continuous learning.
 
